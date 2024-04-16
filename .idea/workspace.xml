@@ -1,0 +1,1148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc333649-7177-4792-8474-f73c9b6398b4" name="Default Changelist" comment="">
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/film/src/components/CinemaDetail/CinemaDetail.vue" beforeDir="false" afterPath="$PROJECT_DIR$/film/src/components/CinemaDetail/CinemaDetail.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/film/src/components/MovieDetail/MovieDetail.vue" beforeDir="false" afterPath="$PROJECT_DIR$/film/src/components/MovieDetail/MovieDetail.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/film/src/components/MovieDetail/children/CommentPanel.vue" beforeDir="false" afterPath="$PROJECT_DIR$/film/src/components/MovieDetail/children/CommentPanel.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/film/src/components/SelectCinema/SelectCinema.vue" beforeDir="false" afterPath="$PROJECT_DIR$/film/src/components/SelectCinema/SelectCinema.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/film/src/pages/Home/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/film/src/pages/Home/Home.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/film/src/pages/Movie/Movie.vue" beforeDir="false" afterPath="$PROJECT_DIR$/film/src/pages/Movie/Movie.vue" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/film/src/pages/Movie/Movie.vue" beforeDir="false" afterPath="$PROJECT_DIR$/film/src/pages/Movie/Movie.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/film/src/pages/My/children/MyMovie.vue" beforeDir="false" afterPath="$PROJECT_DIR$/film/src/pages/My/children/MyMovie.vue" afterDir="false" />
+>>>>>>> develop
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/film/src/pages/Home/Home.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="211">
+              <caret line="125" column="13" selection-start-line="125" selection-start-column="13" selection-end-line="125" selection-end-column="13" />
+              <folding>
+                <element signature="n#div#1;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#2;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#2;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#!!top" />
+=======
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/film/src/pages/My/children/MyInfo.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="116">
+              <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/film/src/pages/My/My.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1102">
+              <caret line="147" column="23" lean-forward="true" selection-start-line="147" selection-start-column="16" selection-end-line="147" selection-end-column="23" />
+              <folding>
+                <element signature="n#style#0;n#span#0;n#div#1;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#div#1;n#div#0;n#template#0;n#!!top" />
+>>>>>>> develop
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
+        <entry file="file://$PROJECT_DIR$/film/src/components/CinemaDetail/CinemaDetail.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1149">
+              <caret line="112" column="67" selection-start-line="112" selection-start-column="67" selection-end-line="112" selection-end-column="67" />
+              <folding>
+                <element signature="n#style#0;n#span#1;n#span#1;n#span#1;n#div#2;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#!!top" />
+=======
+        <entry file="file://$PROJECT_DIR$/film/src/pages/My/children/MyMovie.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="261">
+              <caret line="9" column="58" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="58" />
+              <folding>
+                <element signature="e#1655#1730#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/film/index.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/film/src/pages/Movie/Movie.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="521">
+              <caret line="70" column="33" selection-start-line="70" selection-start-column="33" selection-end-line="70" selection-end-column="33" />
+              <folding>
+                <element signature="e#753#797#0" expanded="true" />
+>>>>>>> develop
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< HEAD
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/film/src/components/SelectCinema/SelectCinema.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="15" column="164" selection-start-line="15" selection-start-column="164" selection-end-line="15" selection-end-column="164" />
+=======
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/film/src/components/SelectCinema/SelectCinema.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="899">
+              <caret line="34" column="17" lean-forward="true" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="17" />
+              <folding>
+                <element signature="n#style#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/film/src/pages/Home/Home.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6061">
+              <caret line="229" column="25" selection-start-line="229" selection-start-column="18" selection-end-line="229" selection-end-column="25" />
+              <folding>
+                <element signature="n#div#1;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#2;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#2;n#div#0;n#template#0;n#!!top" expanded="true" />
+              </folding>
+>>>>>>> develop
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+<<<<<<< HEAD
+      <find>movieShowTime</find>
+      <find>price</find>
+      <find>cons</find>
+      <find>error_code</find>
+      <find>488</find>
+      <find>500488</find>
+      <find>500</find>
+      <find>currentUserCommentDate</find>
+      <find>avg</find>
+      <find>pickerPublicDate</find>
+      <find>sor</find>
+      <find>sort</find>
+      <find>删除</find>
+      <find>注销</find>
+      <find>searchColor</find>
+      <find>isHotP</find>
+      <find>forEach</find>
+      <find>family</find>
+      <find>92</find>
+      <find>86</find>
+      <find>border-radius</find>
+      <find>border</find>
+      <find>我评</find>
+      <find>In</find>
+      <find>登录</find>
+      <find>value.user_id</find>
+      <find>暂无</find>
+      <find>hasMovieInfo</find>
+      <find>hackReset</find>
+      <find>console</find>
+=======
+      <find>deep</find>
+      <find>info-container</find>
+      <find>用户名</find>
+      <find>sheetVisible</find>
+      <find>index</find>
+      <find>取消</find>
+      <find>600</find>
+      <find>&amp;</find>
+      <find>.6rem</find>
+      <find>scroll</find>
+      <find>dp_year_list</find>
+      <find>1</find>
+      <find>disabledDate</find>
+      <find>initDate</find>
+      <find>1900</find>
+      <find>con</find>
+      <find>cons</find>
+      <find>根据</find>
+      <find>days</find>
+      <find>formatDate</find>
+      <find>updateDate</find>
+      <find>active</find>
+      <find>date</find>
+      <find>#2d98f3</find>
+      <find>&gt;=</find>
+      <find>&gt;</find>
+      <find>dayIsDisable</find>
+      <find>disableDate</find>
+      <find>startDate</find>
+      <find>保存</find>
+>>>>>>> develop
+    </findStrings>
+    <replaceStrings>
+      <replace>999</replace>
+      <replace>currentUserCommentDate</replace>
+      <replace>supportUser</replace>
+      <replace>headerActive</replace>
+      <replace>90</replace>
+<<<<<<< HEAD
+=======
+      <replace>updateDate</replace>
+      <replace>#dd2727</replace>
+>>>>>>> develop
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\webstorm\FilmSys\film\src\pages</dir>
+      <dir>D:\webstorm\FilmSys\film\node_modules\element-ui\packages\date-picker</dir>
+      <dir>D:\webstorm\FilmSys\film</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/film/src/App.vue" />
+        <option value="$PROJECT_DIR$/film_admin/src/views/login/index.vue" />
+        <option value="$PROJECT_DIR$/film_admin/package.json" />
+        <option value="$PROJECT_DIR$/film_admin/api/index.js" />
+        <option value="$PROJECT_DIR$/film_admin/src/pages/Index/Index.vue" />
+        <option value="$PROJECT_DIR$/film_admin/src/pages/Home/children/Index.vue" />
+=======
+>>>>>>> develop
+        <option value="$PROJECT_DIR$/film_admin/.babelrc" />
+        <option value="$PROJECT_DIR$/film_admin/index.html" />
+        <option value="$PROJECT_DIR$/film_admin/src/pages/asd/asd.vue" />
+        <option value="$PROJECT_DIR$/film_admin/src/router/index.js" />
+        <option value="$PROJECT_DIR$/film_admin/src/main.js" />
+        <option value="$PROJECT_DIR$/film_admin/src/App.vue" />
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/film/src/api/index.js" />
+        <option value="$PROJECT_DIR$/film_admin/src/api/index.js" />
+        <option value="$PROJECT_DIR$/film_admin/src/pages/Login/Login.vue" />
+        <option value="$PROJECT_DIR$/film/src/router/index.js" />
+=======
+        <option value="$PROJECT_DIR$/film_admin/src/api/index.js" />
+        <option value="$PROJECT_DIR$/film_admin/src/pages/Login/Login.vue" />
+>>>>>>> develop
+        <option value="$PROJECT_DIR$/film_admin/config/index.js" />
+        <option value="$PROJECT_DIR$/film_api/app.js" />
+        <option value="$PROJECT_DIR$/film_admin/src/pages/Home/children/CommentManage.vue" />
+        <option value="$PROJECT_DIR$/film_admin/src/pages/Home/children/CinemaManage.vue" />
+        <option value="$PROJECT_DIR$/film_admin/src/pages/Home/children/HallManage.vue" />
+        <option value="$PROJECT_DIR$/film_admin/src/pages/Home/children/MovieManage.vue" />
+        <option value="$PROJECT_DIR$/film_admin/src/pages/Home/children/OrderManage.vue" />
+        <option value="$PROJECT_DIR$/film_admin/src/pages/Home/children/UserManage.vue" />
+        <option value="$PROJECT_DIR$/film_admin/src/pages/Home/children/MovieSchedule.vue" />
+        <option value="$PROJECT_DIR$/film_admin/src/pages/Home/Home.vue" />
+        <option value="$PROJECT_DIR$/film/src/components/FilmItem.vue" />
+        <option value="$PROJECT_DIR$/film/src/components/FilmItem/FilmItem.vue" />
+        <option value="$PROJECT_DIR$/film/src/pages/Movie/children/SearchMovie.vue" />
+        <option value="$PROJECT_DIR$/film/src/components/TabBar/TabBar.vue" />
+        <option value="$PROJECT_DIR$/film/src/components/MovieItem/MovieItem.vue" />
+        <option value="$PROJECT_DIR$/film/node_modules/ly-tab/src/tabbar.vue" />
+        <option value="$PROJECT_DIR$/film/src/components/SelectSeat/SelectSeat.vue" />
+        <option value="$PROJECT_DIR$/film/src/components/SubmitOrder/SubmitOrder.vue" />
+        <option value="$PROJECT_DIR$/film/src/pages/Cinema/Cinema.vue" />
+        <option value="$PROJECT_DIR$/film/src/pages/Cinema/children/SearchCinema.vue" />
+        <option value="$PROJECT_DIR$/film/src/pages/Home/children/SearchAll.vue" />
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/film/src/pages/My/My.vue" />
+        <option value="$PROJECT_DIR$/film/src/components/Login/Login.vue" />
+        <option value="$PROJECT_DIR$/film/src/pages/My/children/MyOrder.vue" />
+        <option value="$PROJECT_DIR$/film/src/pages/My/children/MyMovie.vue" />
+        <option value="$PROJECT_DIR$/film/src/components/Pay/Pay.vue" />
+        <option value="$PROJECT_DIR$/film/src/pages/My/children/MyInfo.vue" />
+        <option value="$PROJECT_DIR$/film/src/pages/Movie/Movie.vue" />
+        <option value="$PROJECT_DIR$/film/src/components/MovieDetail/MovieDetail.vue" />
+        <option value="$PROJECT_DIR$/film/src/components/MovieDetail/children/CommentPanel.vue" />
+        <option value="$PROJECT_DIR$/film/src/components/SelectCinema/SelectCinema.vue" />
+        <option value="$PROJECT_DIR$/film/src/components/CinemaDetail/CinemaDetail.vue" />
+        <option value="$PROJECT_DIR$/film/src/pages/Home/Home.vue" />
+=======
+        <option value="$PROJECT_DIR$/film/src/components/Login/Login.vue" />
+        <option value="$PROJECT_DIR$/film/src/pages/My/children/MyOrder.vue" />
+        <option value="$PROJECT_DIR$/film/src/components/Pay/Pay.vue" />
+        <option value="$PROJECT_DIR$/film/src/components/MovieDetail/MovieDetail.vue" />
+        <option value="$PROJECT_DIR$/film/src/components/MovieDetail/children/CommentPanel.vue" />
+        <option value="$PROJECT_DIR$/film/src/components/SelectCinema/SelectCinema.vue" />
+        <option value="$PROJECT_DIR$/film/src/components/CinemaDetail/CinemaDetail.vue" />
+        <option value="$PROJECT_DIR$/film/src/pages/Home/Home.vue" />
+        <option value="$PROJECT_DIR$/film/src/pages/My/ModifyUserName.vue" />
+        <option value="$PROJECT_DIR$/film/src/router/index.js" />
+        <option value="$PROJECT_DIR$/film/src/pages/My/children/ModifyUserName.vue" />
+        <option value="$PROJECT_DIR$/film/src/pages/My/children/ModifyUserSign.vue" />
+        <option value="$PROJECT_DIR$/film/src/components/SelectSex/SelectSex.vue" />
+        <option value="$PROJECT_DIR$/film/config/index.js" />
+        <option value="$PROJECT_DIR$/film/src/components/DatePicker.vue" />
+        <option value="$PROJECT_DIR$/film/src/api/index.js" />
+        <option value="$PROJECT_DIR$/film_api/routes/index.js" />
+        <option value="$PROJECT_DIR$/film/src/components/DatePicker/DatePicker.vue" />
+        <option value="$PROJECT_DIR$/film/src/pages/My/children/MyInfo.vue" />
+        <option value="$PROJECT_DIR$/film/src/pages/My/My.vue" />
+        <option value="$PROJECT_DIR$/film/src/pages/My/children/MyMovie.vue" />
+        <option value="$PROJECT_DIR$/film/src/pages/Movie/Movie.vue" />
+>>>>>>> develop
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="213" />
+    <option name="y" value="15" />
+    <option name="width" value="1260" />
+    <option name="height" value="795" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="FilmSys" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FilmSys" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FilmSys" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FilmSys" type="462c0819:PsiDirectoryNode" />
+              <item name="film" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FilmSys" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FilmSys" type="462c0819:PsiDirectoryNode" />
+              <item name="film" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FilmSys" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FilmSys" type="462c0819:PsiDirectoryNode" />
+              <item name="film" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FilmSys" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FilmSys" type="462c0819:PsiDirectoryNode" />
+              <item name="film" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="SelectCinema" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FilmSys" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FilmSys" type="462c0819:PsiDirectoryNode" />
+              <item name="film" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+>>>>>>> develop
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.13.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+    <property name="ts.external.directory.path" value="E:\WebStorm\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\webstorm\FilmSys\film\src\common\css" />
+      <recent name="D:\webstorm\FilmSys\film_api" />
+      <recent name="D:\webstorm\FilmSys\film_api\public\images\avatar" />
+      <recent name="D:\webstorm\FilmSys\film_api\public\images\admin" />
+      <recent name="D:\webstorm\FilmSys\film_api\pubilc\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\webstorm\FilmSys\film\src\pages\My\children" />
+      <recent name="D:\webstorm\FilmSys\film_admin\src" />
+      <recent name="D:\webstorm\FilmSys\film_api\public\images\avatar" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc333649-7177-4792-8474-f73c9b6398b4" name="Default Changelist" comment="" />
+      <created>1555042332432</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555042332432</updated>
+      <workItem from="1555042335007" duration="10096000" />
+      <workItem from="1555156499257" duration="12632000" />
+      <workItem from="1555206651398" duration="32158000" />
+      <workItem from="1555290438432" duration="22995000" />
+      <workItem from="1555467182782" duration="43797000" />
+      <workItem from="1555550363297" duration="36010000" />
+      <workItem from="1555742718526" duration="48760000" />
+      <workItem from="1555819448796" duration="25197000" />
+      <workItem from="1555898749517" duration="39339000" />
+      <workItem from="1556004319388" duration="17953000" />
+      <workItem from="1556071192881" duration="14906000" />
+      <workItem from="1556157817332" duration="79000" />
+      <workItem from="1556161574585" duration="4053000" />
+      <workItem from="1556171822177" duration="23641000" />
+      <workItem from="1556203378112" duration="186000" />
+      <workItem from="1556243928437" duration="38948000" />
+      <workItem from="1556415814266" duration="29221000" />
+      <workItem from="1556502997910" duration="20623000" />
+      <workItem from="1556617107576" duration="7110000" />
+      <workItem from="1556700957524" duration="2068000" />
+      <workItem from="1556786237153" duration="9100000" />
+      <workItem from="1556857150184" duration="22994000" />
+      <workItem from="1556942251826" duration="35761000" />
+      <workItem from="1557023390509" duration="33539000" />
+      <workItem from="1557113934372" duration="15625000" />
+      <workItem from="1557214133150" duration="19443000" />
+      <workItem from="1557326618489" duration="2147000" />
+      <workItem from="1557394002738" duration="1043000" />
+      <workItem from="1557456077903" duration="8620000" />
+      <workItem from="1557536560325" duration="4737000" />
+      <workItem from="1562033087281" duration="13462000" />
+      <workItem from="1562144905614" duration="901000" />
+      <workItem from="1562223375069" duration="8467000" />
+      <workItem from="1562289237359" duration="16828000" />
+      <workItem from="1562550386012" duration="1253000" />
+      <workItem from="1562912730989" duration="4548000" />
+      <workItem from="1563170830486" duration="4178000" />
+      <workItem from="1563931283291" duration="490000" />
+<<<<<<< HEAD
+=======
+      <workItem from="1564017932711" duration="17040000" />
+      <workItem from="1564104675928" duration="12625000" />
+      <workItem from="1564363552669" duration="17444000" />
+      <workItem from="1564450449440" duration="16721000" />
+      <workItem from="1564537572056" duration="22015000" />
+      <workItem from="1564622860242" duration="23500000" />
+      <workItem from="1564709679811" duration="16058000" />
+      <workItem from="1565076523456" duration="292000" />
+      <workItem from="1565076837892" duration="4621000" />
+>>>>>>> develop
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="639256000" />
+=======
+    <option name="totallyTimeSpent" value="776274000" />
+>>>>>>> develop
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1519" height="977" extended-state="6" />
+    <layout>
+<<<<<<< HEAD
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22454484" />
+=======
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17734322" />
+>>>>>>> develop
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32978722" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32978722" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+<<<<<<< HEAD
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.19053255" />
+=======
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.11715976" />
+>>>>>>> develop
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="TypeScript" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22252192" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32978722" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.19148937" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/film_admin/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="31" />
+        </state>
+      </provider>
+=======
+    <entry file="file://$PROJECT_DIR$/db_film.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9048" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/film_api/public/images/admin/admin.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/film_api/public/images/avatar/1556444144537.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/film_api/public/images/avatar/1556507191457.jpg">
+      <provider selected="true" editor-type-id="images" />
+>>>>>>> develop
+    </entry>
+    <entry file="file://$PROJECT_DIR$/film_api/public/images/avatar/1556507363729.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/film_api/public/images/avatar/1556443711231.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/film_api/public/images/avatar/1556443995751.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/film/.babelrc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/film/src/components/SelectSex/SelectSex.vue" />
+    <entry file="file://$PROJECT_DIR$/film/src/router/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-452">
+          <caret line="38" column="23" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#112#149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/film/src/components/CinemaDetail/CinemaDetail.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3132">
+          <caret line="112" column="67" selection-start-line="112" selection-start-column="67" selection-end-line="112" selection-end-column="67" />
+          <folding>
+            <element signature="n#style#0;n#span#1;n#span#1;n#span#1;n#div#2;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/film/src/pages/My/children/ModifyUserName.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="33" column="10" selection-start-line="33" selection-start-column="10" selection-end-line="33" selection-end-column="10" />
+          <folding>
+            <element signature="e#541#573#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/film/src/api/ajax.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/film_api/bin/www">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2022" />
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/film_admin/src/api/index.js">
+=======
+    <entry file="file://$PROJECT_DIR$/film_api/db/db.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/film/src/components/DatePicker.vue" />
+    <entry file="file://$PROJECT_DIR$/film_api/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/film_api/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="60" column="17" lean-forward="true" selection-start-line="60" selection-start-column="17" selection-end-line="60" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/film/src/components/TabBar/TabBar.vue">
+>>>>>>> develop
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="16" column="58" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/film/src/pages/My/children/ModifyUserSign.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="841">
+          <caret line="38" column="36" selection-start-line="38" selection-start-column="36" selection-end-line="38" selection-end-column="36" />
+          <folding>
+            <element signature="e#498#530#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/film/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+=======
+    <entry file="file://$PROJECT_DIR$/film/node_modules/element-ui/packages/date-picker/src/picker/time-select.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/film/node_modules/element-ui/packages/date-picker/src/picker/time-picker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/film/node_modules/element-ui/packages/date-picker/src/picker/date-picker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/film/node_modules/element-ui/packages/date-picker/src/basic/year-table.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1218" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/film/node_modules/element-ui/packages/date-picker/src/basic/month-table.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+>>>>>>> develop
+    </entry>
+    <entry file="file://$PROJECT_DIR$/film/node_modules/element-ui/packages/date-picker/src/basic/date-table.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8787" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/film/node_modules/element-ui/packages/date-picker/src/util/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2059">
+          <caret line="1" column="42" lean-forward="true" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/film/node_modules/element-ui/packages/date-picker/src/panel/date.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1282">
+          <caret line="47" column="13" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
+          <folding>
+            <element signature="n#div#1;n#div#1;n#div#0;n#div#0;n#transition#0;n#template#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/film/src/components/MovieItem/MovieItem.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="899">
+          <caret line="46" column="19" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/film/node_modules/vue/types/vue.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="28" column="11" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/film/src/api/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="16" column="94" selection-start-line="16" selection-start-column="94" selection-end-line="16" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/film/src/pages/Movie/children/SearchMovie.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/film_api/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="207" column="41" lean-forward="true" selection-start-line="207" selection-start-column="41" selection-end-line="207" selection-end-column="41" />
+          <folding>
+            <element signature="e#243#263#0" />
+            <element signature="e#305#353#0" />
+            <element signature="e#417#648#0" />
+            <element signature="e#506#559#0" />
+            <element signature="e#563#646#0" />
+            <element signature="e#708#1198#0" />
+            <element signature="e#744#1059#0" />
+            <element signature="e#1256#2424#0" />
+            <element signature="e#1373#2366#0" />
+            <element signature="e#1494#2361#0" />
+            <element signature="e#1512#1573#0" />
+            <element signature="e#1578#2355#0" />
+            <element signature="e#1670#1823#0" />
+            <element signature="e#1828#2347#0" />
+            <element signature="e#2078#2336#0" />
+            <element signature="e#2102#2208#0" />
+            <element signature="e#2213#2324#0" />
+            <element signature="e#2371#2422#0" />
+            <element signature="e#2479#3398#0" />
+            <element signature="e#2642#2693#0" />
+            <element signature="e#2698#3396#0" />
+            <element signature="e#2852#3391#0" />
+            <element signature="e#2870#2930#0" />
+            <element signature="e#2935#3385#0" />
+            <element signature="e#3012#3314#0" />
+            <element signature="e#3053#3233#0" />
+            <element signature="e#3238#3304#0" />
+            <element signature="e#3319#3377#0" />
+            <element signature="e#3457#3946#0" />
+            <element signature="e#3628#3939#0" />
+            <element signature="e#3646#3708#0" />
+            <element signature="e#3713#3933#0" />
+            <element signature="e#3790#3855#0" />
+            <element signature="e#3860#3925#0" />
+            <element signature="e#4008#5104#0" />
+            <element signature="e#5166#5904#0" />
+            <element signature="e#5967#6568#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/film_admin/src/pages/Home/children/MovieSchedule.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="272" column="45" selection-start-line="272" selection-start-column="33" selection-end-line="272" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/film/node_modules/element-ui/packages/date-picker/src/basic/time-spinner.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="32" column="38" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/film/node_modules/element-ui/packages/date-picker/src/picker.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-26277" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/film/.postcssrc.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/NodeJS/lib/NodeJS.jar!/com/jetbrains/nodejs/packageJson/packageJsonSchema.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3241">
+          <caret line="35" column="6" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/film/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/film/src/components/DatePicker/DatePicker.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5249">
+          <caret line="181" column="23" selection-start-line="181" selection-start-column="23" selection-end-line="181" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/film/src/pages/Home/Home.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6061">
+          <caret line="229" column="25" selection-start-line="229" selection-start-column="18" selection-end-line="229" selection-end-column="25" />
+          <folding>
+            <element signature="n#div#1;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#2;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#2;n#div#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/film_admin/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/film/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/film_api/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/film/src/components/FilmItem.vue" />
+    <entry file="file://$PROJECT_DIR$/film/src/pages/Movie/children/SearchMovie.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/film/node_modules/ly-tab/src/tabbar.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="313" column="16" selection-start-line="313" selection-start-column="16" selection-end-line="313" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/film/src/components/MovieItem/MovieItem.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="46" column="19" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/film/src/components/TabBar/TabBar.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="16" column="58" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/film/src/components/SelectSeat/SelectSeat.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9628">
+          <caret line="333" column="24" selection-start-line="333" selection-start-column="24" selection-end-line="334" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/film/src/components/SubmitOrder/SubmitOrder.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="40" column="31" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/film/src/pages/Cinema/Cinema.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="128" column="15" selection-start-line="128" selection-start-column="15" selection-end-line="128" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/film/src/pages/Cinema/children/SearchCinema.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="16" column="52" selection-start-line="16" selection-start-column="52" selection-end-line="16" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/film/src/pages/Home/children/SearchAll.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/common.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="127" column="18" selection-start-line="127" selection-start-column="18" selection-end-line="127" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/film/src/components/Login/Login.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="249" column="22" lean-forward="true" selection-start-line="249" selection-start-column="22" selection-end-line="249" selection-end-column="22" />
+          <folding>
+            <element signature="e#5899#5958#0" />
+=======
+    <entry file="file://$PROJECT_DIR$/film/src/pages/My/children/MyInfo.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
+>>>>>>> develop
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/film/src/pages/My/children/MyOrder.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="35" column="37" lean-forward="true" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="37" />
+          <folding>
+            <element signature="e#1523#1568#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/film/src/pages/My/children/MyMovie.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="89" column="30" selection-start-line="89" selection-start-column="30" selection-end-line="89" selection-end-column="30" />
+          <folding>
+            <element signature="e#1655#1730#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/film/src/components/Pay/Pay.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="105" column="30" selection-start-line="105" selection-start-column="30" selection-end-line="105" selection-end-column="30" />
+          <folding>
+            <element signature="e#1581#1653#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/film/src/pages/My/My.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="10" column="94" selection-start-line="10" selection-start-column="94" selection-end-line="10" selection-end-column="94" />
+          <folding>
+=======
+    <entry file="file://$PROJECT_DIR$/film/src/pages/My/My.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1102">
+          <caret line="147" column="23" lean-forward="true" selection-start-line="147" selection-start-column="16" selection-end-line="147" selection-end-column="23" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#div#1;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+>>>>>>> develop
+            <element signature="n#div#1;n#div#0;n#template#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/film/src/pages/My/children/MyInfo.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="243" column="18" selection-start-line="243" selection-start-column="18" selection-end-line="243" selection-end-column="18" />
+          <folding>
+            <element signature="e#1990#2011#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/film/src/components/MovieDetail/children/CommentPanel.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="58" column="46" selection-start-line="58" selection-start-column="46" selection-end-line="58" selection-end-column="46" />
+          <folding>
+            <element signature="e#660#727#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/film/src/components/MovieDetail/MovieDetail.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="499" column="32" selection-start-line="499" selection-start-column="32" selection-end-line="499" selection-end-column="32" />
+          <folding>
+            <element signature="e#11780#11838#0" />
+=======
+    <entry file="file://$PROJECT_DIR$/film/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/film/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/film/src/pages/My/children/MyMovie.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="9" column="58" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="58" />
+          <folding>
+            <element signature="e#1655#1730#0" expanded="true" />
+>>>>>>> develop
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/film/src/pages/Movie/Movie.vue">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="377">
+          <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+          <folding>
+            <element signature="e#753#797#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/film/src/components/SelectCinema/SelectCinema.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="15" column="164" selection-start-line="15" selection-start-column="164" selection-end-line="15" selection-end-column="164" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/film/src/components/CinemaDetail/CinemaDetail.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1149">
+          <caret line="112" column="67" selection-start-line="112" selection-start-column="67" selection-end-line="112" selection-end-column="67" />
+          <folding>
+            <element signature="n#style#0;n#span#1;n#span#1;n#span#1;n#div#2;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/film/src/pages/Home/Home.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="125" column="13" selection-start-line="125" selection-start-column="13" selection-end-line="125" selection-end-column="13" />
+          <folding>
+            <element signature="n#div#1;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#2;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#2;n#div#0;n#template#0;n#!!top" expanded="true" />
+=======
+        <state relative-caret-position="521">
+          <caret line="70" column="33" selection-start-line="70" selection-start-column="33" selection-end-line="70" selection-end-column="33" />
+          <folding>
+            <element signature="e#753#797#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/film/config/prod.env.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/film/config/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1047">
+          <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/film/config/dev.env.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/film/src/components/SelectCinema/SelectCinema.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="899">
+          <caret line="34" column="17" lean-forward="true" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="17" />
+          <folding>
+>>>>>>> develop
+            <element signature="n#style#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
