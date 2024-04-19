@@ -7,5 +7,3 @@ start npm start
 cd ..
 cd film_api
 start nodemon app.js
-
-@REM ttt
