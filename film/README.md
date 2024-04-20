@@ -1,12 +1,8 @@
-# 淘气电影
+# Movie-Land
 
-> ### 淘气电影前端页面项目
+> ### 前端页面项目
 
-## 预览
-
-<img src="https://img-blog.csdnimg.cn/20190715155903552.gif" width="300px">
-
-## 目录  
+## 目录
 
     |-- .gitignore  #git中忽略的文件
     |-- index.html  #根文件
@@ -29,7 +25,7 @@
     |   |-- components  #组件文件
     |   |   |-- CinemaDetail  #影院详情组件
     |   |   |-- DatePicker  #日期选择器组件
-    |   |   |-- Login  #登录组件 
+    |   |   |-- Login  #登录组件
     |   |   |-- MovieDetail  #电影详情组件
     |   |   |   |-- MovieDetail.vue
     |   |   |   |-- children
@@ -68,18 +64,3 @@
         |-- css
             |-- adapter.css  #屏幕自适应样式
             |-- reset.css  #兼容性样式
-
-## 启动项目
-
-**注意！注意！注意！启动前端页面项目前需部署并启动好接口项目 [film_api](https://github.com/J1ong/FilmSys/tree/master/film_api)**  
-
-
-```bash
-#输入命令前需要进入到film中,即在film目录下输入以下命令
-npm install  #安装依赖包
-npm start  #启动
-```
-
-## 最后
-
-**启动成功后，在浏览器地址栏输入http://localhost:8080/ 可看前端页面，切换到移动设备就可以正常看到移动版页面了**

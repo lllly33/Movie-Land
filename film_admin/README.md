@@ -1,10 +1,6 @@
-# 淘气电影
+# Movie-Land
 
-> ### 淘气电影后台管理项目
-
-## 预览
-
-<img src="https://img-blog.csdnimg.cn/2019092514452441.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MTM4MjE4Nw==,size_16,color_FFFFFF,t_70" width="600px">
+> ### 后台
 
 ## 目录
 
@@ -43,17 +39,3 @@
     |-- static  #静态文件
         |-- css
             |-- reset.css  #兼容性样式
-
-## 启动项目
-
-**注意！注意！注意！启动后台管理项目前需部署并启动好接口项目 [film_api](https://github.com/J1ong/FilmSys/tree/master/film_api)**  
-
-```bash
-#输入命令前需要进入到film_admin中,即在film_admin目录下输入以下命令
-npm install  #安装依赖包
-npm start  #启动
-```
-
-## 最后
-
-**启动成功后，在浏览器地址栏输入http://localhost:8081/ 可进入后台管理登录页，输入管理员账号密码（均为admin）即可登录**
