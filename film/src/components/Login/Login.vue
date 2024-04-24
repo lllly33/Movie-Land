@@ -11,8 +11,9 @@
         </div>
         <div class="login-content">
           <div class="login-type">
-            <span :class="{active:loginType}" @click="changeLoginType">验证码登录</span>
-            <span :class="{active:!loginType}" @click="changeLoginType">密码登录</span>
+            <!-- <span>验证码登录</span> -->
+            <!-- <span :class="{active:loginType}" @click="changeLoginType">验证码登录</span> -->
+            <!-- <span :class="{active:!loginType}" @click="changeLoginType">密码登录</span> -->
           </div>
           <div class="login-main">
             <form>
@@ -40,7 +41,7 @@
                 </section>
               </div>
               <!--账号登录部分-->
-              <div v-show="!loginType" class="login-password">
+              <!-- <div v-show="!loginType" class="login-password">
                 <section class="login-info">
                   <input type="text" placeholder="用户名" v-model="userName">
                 </section>
@@ -71,7 +72,7 @@
                     @click="refreshCaptcha"
                   >
                 </section>
-              </div>
+              </div> -->
               <button
                 class="login-submit"
                 @click.prevent="login"
@@ -187,6 +188,11 @@
         },
         computed:{
           //检查手机格式
+          //^ 表示匹配字符串的开头。
+          // 1 表示手机号码的第一位必须为数字 1。
+          // [3|4|5|6|7|8] 表示手机号码的第二位可以是数字 3、4、5、6、7 或 8。
+          // [0-9]{9} 表示手机号码后面跟着 9 个数字（总共 11 位数字）。
+          // $ 表示匹配字符串的结尾。
           checkPhone(){
             return /^1[3|4|5|6|7|8][0-9]{9}$/.test(this.phone);
           }
