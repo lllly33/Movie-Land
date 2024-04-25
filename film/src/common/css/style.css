@@ -49,9 +49,19 @@
   color: #888;
 }
 .icon-film-logo:before {
-  content: "\e917";
-  color: #5748A3;
+  content: "\e918";
+  color: #6ba348;
 }
+/*
+.icon-film-logo {
+  content: "";
+  display: inline-block;
+  width: 130px;
+  height: 130px;
+  background-image: url('./static/icon.png');
+  background-size: cover; 
+}
+*/
 .icon-circle-selected-fill:before {
   content: "\e911";
   color: #5748A3;

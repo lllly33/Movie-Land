@@ -14,7 +14,7 @@
       </div>
       <div class="tips" v-else-if="name">
         <span class="icon icon-empty-content"></span>
-        <span class="text">暂时木有内容呀</span>
+        <span class="text">没搜到o(╥﹏╥)o</span>
       </div>
     </div>
   </div>

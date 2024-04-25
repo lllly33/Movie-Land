@@ -5,10 +5,11 @@
       </div>
       <div class="login-container">
         <div class="login-header logo">
-          <span class="icon icon-film-logo"></span>
+          <img src="./images/icon.png" class="icon" style="width: 30%; height: auto;">
           <p class="title">影迷营地</p>
           <i class="eng-title">Movie Land</i>
         </div>
+
         <div class="login-content">
           <div class="login-type">
             <!-- <span>验证码登录</span> -->

@@ -1,11 +1,23 @@
 <template>
   <div id="home">
     <el-row class="header">
-      <div class="head-bar" v-if="adminInfo.name">
+
+      <!-- <div class="head-bar" v-if="adminInfo.name">
         <div class="left">
           <i class="icon-film-logo" style="font-size: 48px;margin-right: 5px;"></i>
           <span slot="title" style="font-size: 16px;font-weight: bolder">迷影营地</span>
-        </div>
+        </div> -->
+      <div class="head-bar" v-if="adminInfo.name">
+          <div class="left" style="display: flex; align-items: center;">
+            <img
+            src="./icon.png"
+            style="width: 50px;
+            height: auto;
+            margin-right: 5px;">
+            <span slot="title" style="font-size: 16px; font-weight: bolder;">迷影营地</span>
+          </div>
+
+
         <div class="right">
           <img
             :src="server+adminInfo.avatar"
