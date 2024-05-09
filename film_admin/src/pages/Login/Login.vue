@@ -38,7 +38,7 @@ export default {
     const background = document.querySelector('.background');
     setInterval(() => {
       background.style.backgroundPositionY = `${parseInt(getComputedStyle(background).backgroundPositionY) - 1}px`;
-    }, 25); // 每50毫秒移动1像素
+    }, 25); // 每25毫秒移动1像素
   },
   methods: {
     reset() {

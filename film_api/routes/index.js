@@ -265,13 +265,7 @@ router.post('/api/updateUserSign',function(req,res){
 //更新用户信息
 router.post('/api/updateUserInfo',function(req,res){
   let {
-    userId,
-    userName,
-    avatar,
-    password,
-    sex,
-    sign,
-    birthday
+    userId,userName,avatar,password,sex,sign,birthday
   } = req.body;
   if (userId){
     let sqlStr = 'SELECT * from t_user WHERE user_id = ? LIMIT 1;';

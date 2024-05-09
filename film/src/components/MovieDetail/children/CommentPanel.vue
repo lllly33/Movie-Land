@@ -74,15 +74,15 @@
           //处理分数文本
           handleScoreText(){
             if (this.score===1||this.score===2){
-              return '超烂啊'
+              return '比肩《逐梦演艺圈》'
             } else if(this.score===3||this.score===4){
-              return '比较差'
+              return '浪费人生'
             } else if(this.score===5||this.score===6){
               return '一般般'
             } else if(this.score===7||this.score===8){
               return '还不错'
             } else if(this.score===9||this.score===10){
-              return '棒极了'
+              return '看了还想看'
             }
           },
         }
