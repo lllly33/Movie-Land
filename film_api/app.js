@@ -1,3 +1,7 @@
+/*
+ * @Date: 2024-04-19 14:04:21
+ * @LastEditTime: 2024-05-27 19:53:19
+ */
 var createError = require('http-errors');
 var express = require('express');
 var path = require('path');
@@ -9,13 +13,15 @@ var indexRouter = require('./routes/index');
 
 var app = express();
 
+// 导入 swagger 设置
+var swaggerSetup = require('./swagger');
+
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'ejs');
 //托管静态文件
 app.use(express.static('public'));
 
-//
 app.use(session({
   secret: 'keyboard cat', // 对session id 相关的cookie 进行签名
   resave: false,
@@ -28,6 +34,9 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
+
+// 设置 Swagger
+swaggerSetup(app);
 
 app.use('/', indexRouter);
 

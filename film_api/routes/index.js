@@ -7,7 +7,15 @@ const multer = require('multer');
 
 // 用户API
 let user = {};
-/* GET home page. */
+/**
+ * @swagger
+ * /:
+ *   get:
+ *     summary: Welcome message
+ *     responses:
+ *       200:
+ *         description: Returns a welcome message
+ */
 router.get('/', function(req, res, next) {
   res.render('index', { title: 'Express' });
 });
